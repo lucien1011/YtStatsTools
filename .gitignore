@@ -1,0 +1,21 @@
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# Vim
+*.swp
+*.pyc
+*.swp
+*.swo
+*.swn
+*.swm
+*.png
+*.pdf
+*.log
+*.aux
+*.tex
+*~
+*.root
+test*/
